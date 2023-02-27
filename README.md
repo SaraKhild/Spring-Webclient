@@ -3,7 +3,7 @@
 <br>
 
 ## Overview
-This project was built for the purpose of reach  WebClient concept by dummy data  
+This project was built for the purpose of reach  WebClient concept  
 
 <br>
 
