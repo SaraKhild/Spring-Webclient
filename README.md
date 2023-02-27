@@ -3,7 +3,7 @@
 <br>
 
 ## Overview
-This project was built for the purpose of reach  WebClient concept  
+This project was created with the purpose of simplifying the WebClient concept.
 
 <br>
 
